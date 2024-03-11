@@ -1,6 +1,6 @@
 # gc-geiger mode
 
-A geiger counter for emacs GC
+Make a click sound when emacs does garbage collection
 
 ## Installing 
 
